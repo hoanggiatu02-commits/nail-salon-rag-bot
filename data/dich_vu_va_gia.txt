@@ -1,0 +1,213 @@
+# NAIL SALON SERVICES AND PRICING MENU
+
+---
+SECTION 1: PEDICURE SERVICES
+---
+
+**1. Splish Splash Pedicure**
+*   **Price:** $33
+*   **Duration:** 30 MINUTES
+*   **Description:** Includes Cuticle care, nail shaping, 5 minutes of foot massage and hot towel, finishing with regular polish.
+
+**2. Happy Vibe Pedicure**
+*   **Price:** $43
+*   **Duration:** 40 MINUTES
+*   **Description:** Includes Neck wrap, cucumber sugar scrub, mask application, hot towels, extra callus removal, and 10 minutes of foot massage.
+
+**3. Pure Love Pedicure**
+*   **Price:** $50
+*   **Duration:** 45 MINUTES
+*   **Description:** Soaking feet in a warm vitamin D whole milk bath, neck wrap, honey sugar scrub exfoliation, mask with hot towels wrap, intensive callus treatment, 10 minutes hot stone foot massage, and 3 minutes neck and shoulder massage.
+
+**4. Sunshine Mimosa Pedicure**
+*   **Price:** $55
+*   **Duration:** 50 MINUTES
+*   **Description:** Exfoliate rough skin with a vitamin C tropical sugar scrub, neck wrap, tropical fruit mask, intensive callus treatment, warmed paraffin wax, 12 minutes hot stone foot massage, and 5 minutes neck and shoulder massage.
+
+**5. Palazzio Signature Pedicure**
+*   **Price:** $65
+*   **Duration:** 55 MINUTES
+*   **Description:** Luxurious collagen spa formulated to relieve stress, sugar scrub, mask, intensive callus removal, warm paraffin wax, OR collagen socks, 15 minutes hot stone foot massage, and 5 minutes neck and shoulder massage.
+
+**6. Into The Night Pedicure**
+*   **Price:** $75
+*   **Duration:** 62 MINUTES
+*   **Description:** Includes Mud masque, black charcoal scrub exfoliation, intense callus treatment with callus remover, warmed paraffin wax, 20 minutes hot stone foot massage, and 6 minutes neck and shoulder massage.
+
+**7. Cloud In The Sky Pedicure**
+*   **Price:** $80
+*   **Duration:** Not explicitly specified (but includes 20 minutes hot stone foot massage).
+*   **Description:** Experience ethereal bliss with a spa pedicure including 20 minutes hot stone foot massage, 7 minutes neck massage, extensive callus treatment, cleansing, shaping, cuticle care, steaming treatment, collagen socks, and rose/sea salt scrubs and mask.
+
+**8. Organic Perfect Sense Pedicure**
+*   **Price:** $90
+*   **Duration:** 70 MINUTES
+*   **Description:** Uses Nuskin product and organic paraffin wax. Includes 25 minutes foot massage with hot stone, 10 minutes neck and shoulder massage, mineral herbal bath, EPOCH iceDancer invigorating gel, EPOCH Firewalker foot cream, and EPOCH Sole Solution foot treatment.
+
+**9. Ultimate Jelly Pedicure**
+*   **Price:** $90
+*   **Duration:** 70 MINUTES
+*   **Description:** 5-step pedicure: Jelly Soak, Sea Salt exfoliation, Sugar Scrub, Nourishing Mask, and relaxing massage cream. Anti-inflammatory, antiseptic, 16 natural ingredients, free of 10 common toxins.
+
+---
+SECTION 2: MANICURE SERVICES
+---
+
+**1. Splish Splash Manicure**
+*   **Price:** $23
+*   **Duration:** 20 MINUTES
+*   **Description:** Soak with hand soap, and 3 minutes hand massage with lotion.
+
+**2. Breezy Sea Manicure**
+*   **Price:** $30
+*   **Duration:** 25 MINUTES
+*   **Description:** Soak with hand soap, lavender scrub with hot towel wrap, and 5 minutes of hand massage with lotion.
+
+**3. Happy Vibe Manicure**
+*   **Price:** $40
+*   **Duration:** 25 MINUTES
+*   **Description:** Citrus salt soak, cucumber scrub and mask with hot towel wrap, and 10 minutes hand massage with hot stones.
+
+**4. Pure Love Manicure**
+*   **Price:** $48
+*   **Duration:** 42 MINUTES
+*   **Description:** Includes 12 minutes of hand massage with a hot stone, 3 minutes of a shoulder massage, mineral mud mask, charcoal sugar scrub, body butter, paraffin treatment, and hot towel wrap.
+
+**5. Organic Perfect Sense Manicure**
+*   **Price:** $60
+*   **Duration:** 52 MINUTES
+*   **Description:** Includes 14 minutes of hand massage with a hot stone, 6 minutes of a shoulder massage, herbal mineral hand soaking, and Epoch iceDancer shiny polish.
+
+**6. Shellac Manicure (No Chips)**
+*   **Price:** $42
+*   **Duration:** 40 MINUTES
+*   **Description:** A manicure using shellac nail polish that lasts two weeks or longer with a stunning finish.
+
+---
+SECTION 3: NAIL ENHANCEMENTS (TĂNG CƯỜNG MÓNG)
+---
+
+**1. Regular Polish**
+*   **Full Set Price:** $45+
+*   **Refill Price:** $40+
+
+**2. Shellac/Gel Polish**
+*   **Full Set Price:** $55+
+*   **Refill Price:** $50+
+
+**3. Color Powder**
+*   **Full Set Price:** $50+
+*   **Refill Price:** $45+
+
+**4. Solar Pink & White**
+*   **Full Set Price:** $65
+*   **Refill Price:** $55+
+
+**5. Color Powder Ombre (2 Colors)**
+*   **Full Set Price:** $60+
+*   **Refill Price:** $55+
+
+**6. Color Powder Ombre (1 Color)**
+*   **Refill Price:** $45+
+
+**7. Dip Powder**
+*   **Base Price:** $50+
+*   **With Tips:** $55
+*   **With Cuticle Care:** $50+
+*   **With Cuticle Care & Tips:** $55+
+
+**8. Dip Powder Ombre**
+*   **Base Price:** $60+
+*   **With Tips:** $65+
+
+**9. Gel X**
+*   **Price:** $70+
+
+---
+SECTION 4: REPAIR AND REMOVAL SERVICES
+---
+
+**1. Powder Repair**
+*   **Repair W/O Additional Services:** $5+
+*   **Repair W/ Additional Services:** $5+
+*   **Removal W/O Additional Services:** $15
+*   **Removal W/ Additional Services:** $5+
+
+**2. Toe Nail Extension**
+*   **Full Extension Price:** $8+
+*   **Refill Price:** $5+
+
+---
+SECTION 5: POLISH CHANGE
+---
+
+**1. Regular Polish Change**
+*   **Price (Hands Or Feet):** $15
+*   **With French:** $17
+
+**2. Shellac Polish Change**
+*   **Price (Hands Or Feet):** $25
+*   **With French:** $30
+
+**3. Shellac Add-On W/ Additional Services:** $20
+
+---
+SECTION 6: ADDITIONAL SERVICES
+---
+
+**1. French Tips**
+*   **Polish:** $5+
+*   **Gel Curve:** $15-$30+
+
+**2. Nail Art Designs:** $8+
+
+**3. Lotion Or Oil Massage:** $2+ (Per Minute)
+
+**4. Paraffin Wax:** $10 (Hands Or Feet)
+
+**5. Length Adjustments**
+*   **Longer Length:** $5-$35+
+*   **Special Shapes:** $5+
+
+**6. Reshape/Cut Down/Cuticle Trim:** $5-$10+
+
+---
+SECTION 7: LITTLE PRINCESS (UNDER 10)
+---
+
+*   **Princess Manicure:** $15
+*   **Princess Pedicure:** $25
+*   **Princess Combo (Manicure/Pedicure):** $38
+*   **Princess Combo Shellac Add-On:** $30 (Manicure $15 / Pedicure $15)
+
+---
+SECTION 8: WAXING
+---
+
+*   **Brow Contouring:** $14
+*   **Lips:** $8
+*   **Chin:** $10
+*   **Sideburns:** $15
+*   **Whole Face:** $37
+*   **Under Arms:** $25
+*   **Half Arms:** $25
+*   **Full Arms:** $45
+*   **Half Legs:** $35
+*   **Full Legs:** $55
+*   **Bikini Line:** $40
+*   **Classic Brazilian:** $60
+*   **Eyebrow Tinting:** $30
+
+---
+SECTION 9: EYELASH EXTENSIONS
+---
+
+*   **Full Set Classic:** $99
+*   **Full Set Volume:** $149
+*   **Full Set Mega:** $169
+*   **Refill 1 Week:** $50
+*   **Refill 2 Weeks:** $60
+*   **Refill 3 Weeks:** $70
+*   **Refill 4 Weeks:** $80
+*   **Refill Volume/Hybrid:** $25
+*   **Refill Mega:** $35
