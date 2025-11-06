@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 google-genai
+langchain-google-genai
 langchain
 langchain-community
 chromadb
@@ -8,3 +9,4 @@ python-dotenv
 
 sentence-transformers
 requests
+
